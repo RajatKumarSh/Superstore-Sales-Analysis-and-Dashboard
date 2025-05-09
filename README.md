@@ -9,8 +9,8 @@ This project analyzes the Global Superstore dataset using Microsoft Excel to unc
 - Objective: Build an interactive dashboard to drive business insights.
 
 ## Files Included
-- `Superstore_Sales_Dashboard.xlsx` – Final Excel Dashboard with slicers, charts, and KPIs.
-- `Superstore_Insights_Report.docx` – A structured business report summarizing key findings and recommendations.
+- `Superstore-Sales-Analysis and Dashboard` – Final Excel Dashboard with slicers, charts, and KPIs.
+- `Superstore Insights Report.pdf` – A structured business report summarizing key findings and recommendations.
 - `Sample - Superstore.xls` - Original Dataset.
 
 ## Dashboard Highlights
