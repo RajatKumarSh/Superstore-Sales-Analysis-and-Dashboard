@@ -32,7 +32,7 @@ This project analyzes the Global Superstore dataset using Microsoft Excel to unc
 - Data Cleaning
 - Dashboard Design
 - Business Analysis
-## 📸 Dashboard Preview
+## Dashboard Preview
 
 ![Dashboard Preview](Dashboard.png)
 
